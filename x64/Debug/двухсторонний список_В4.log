@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\nikolay\desktop\#volgu\17-2\ооп\с++\двухсторонний список_в4\source.cpp(58): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\nikolay\desktop\#volgu\17-2\ооп\с++\двухсторонний список_в4\source.cpp(117): warning C4101: i: неиспользованная локальная переменная
+  двухсторонний список_В4.vcxproj -> C:\Users\Nikolay\Desktop\#Volgu\17-2\ООП\С++\двухсторонний список_В4\x64\Debug\двухсторонний список_В4.exe
